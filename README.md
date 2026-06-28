@@ -235,8 +235,8 @@ Retail-Customer-Behavior-Analysis/
 ---
 
 ## 📸 Dashboard Preview
+<img width="1360" height="742" alt="image" src="https://github.com/user-attachments/assets/92336738-e93b-4315-bc02-6a699c81f9eb" />
 
-> *(Add screenshots of your Power BI dashboard here.)*
 
 ---
 
